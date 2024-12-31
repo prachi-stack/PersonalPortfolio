@@ -61,7 +61,7 @@ const Hero = () => {
           transition={{ duration: 1, delay: 2, ease: "easeOut" }}
         >
           <a
-            href="/path-to-your-resume.pdf"
+            href="/resume.pdf"
             download
             className="px-6 py-3 bg-[#915EFF] text-white font-bold rounded-lg shadow-md hover:bg-[#7a4ce0] transition duration-300"
           >
