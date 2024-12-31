@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D icons / Email
+* source:	https://sketchfab.com/3d-models/3d-icons-email-dfe7298e6c4f4a0385fc2b42104ddaa4
+* author:	stPixel (https://sketchfab.com/innasparrow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D icons / Email" (https://sketchfab.com/3d-models/3d-icons-email-dfe7298e6c4f4a0385fc2b42104ddaa4) by stPixel (https://sketchfab.com/innasparrow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
