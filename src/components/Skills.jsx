@@ -23,7 +23,7 @@ const Skills = () => {
     { name: "JavaScript", icon: <FaJs className="text-yellow-400" /> },
     { name: "ReactJS", icon: <FaReact className="text-blue-400" /> },
     { name: "NodeJS", icon: <FaNodeJs className="text-green-500" /> },
-    { name: "ExpressJS", icon: <img src="/src/assets/express.png" alt="ExpressJS" className="mt-3 h-13 w-14 rounded" /> },
+    { name: "ExpressJS", icon: <img src="https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png" alt="ExpressJS" className="mt-3 h-13 w-14 rounded" /> },
     { name: "MongoDB", icon: <SiMongodb className="text-green-700" /> },
     { name: "TypeScript", icon: <SiTypescript className="text-blue-600" /> },
     { name: "NextJS", icon: <SiNextdotjs className="text-gray-400" /> },
