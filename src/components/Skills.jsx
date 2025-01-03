@@ -25,7 +25,7 @@ const Skills = () => {
     { name: "NodeJS", icon: <FaNodeJs className="text-green-500" /> },
     { name: "ExpressJS", icon: <img src="https://logowik.com/content/uploads/images/express-js2119.logowik.com.webp" alt="ExpressJS" className="mt-1 h-14 w-14 rounded" /> },
      { name: "MongoDB", icon: <SiMongodb className="text-green-700" /> },
-    { name: "TypeScript", icon: <SiTypescript className="text-blue-600" /> },
+   // { name: "TypeScript", icon: <SiTypescript className="text-blue-600" /> },
     { name: "NextJS", icon: <SiNextdotjs className="text-gray-400" /> },
     { name: "Tailwind CSS", icon: <SiTailwindcss className="text-teal-400" /> },
     { name: "Bootstrap", icon: <FaBootstrap className="text-purple-600" /> },
