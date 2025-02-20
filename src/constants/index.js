@@ -25,52 +25,8 @@ import {
   
   
   const projects = [
-    {
-      name: "AI Integrated RecipeApp",
-      description:
-          "Full-stack responsive recipe application using the MERN stack allows users to sign up, log in, create and save recipes, and generate AI-based recipe suggestions based on provided ingredients",
-      tags: [
-        {
-          name: "mern",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "tailwindcss",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "GeminiAI",
-          color: "green-text-gradient",
-        },
-      ],
-      image: recipeApp,
-      source_code_link: "https://recipeappmernfrontend.onrender.com/",
-    },
-    {
-      name: "Admin Dashboard",
-      description:
-        "Responsive frontend admin dashboard using React, Tailwind CSS, Recharts, and Framer Motion, with dynamic data visualizations and smooth animations",
-      tags: [
-        {
-          name: "reactjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "tailwindcss",
-          color: "green-text-gradient",
-        },
-        {
-          name: "recharts",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "framer-motion",
-          color: "blue-text-gradient",
-        },
-      ],
-      image: dashboard,
-      source_code_link: "https://admin-dashboard-tan-nine-57.vercel.app/",
-    },
+     
+     
     {
       name: "Personal Portfolio",
       description:
