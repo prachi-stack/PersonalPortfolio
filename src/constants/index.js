@@ -1,7 +1,6 @@
 import {  
-    dashboard,
-    recipeApp,
-    portfolio, chatbot,
+    
+    portfolio, chatapp, texmage
      
   } from "../assets";
   
@@ -53,26 +52,39 @@ import {
       source_code_link: "https://personalportfolio-eqjb.onrender.com",
     },
     {
-      name: "Mental Health Chatbot",
-      description:
-        "Developed a responsive mental health chatbot using MERN stack, TailwindCSS for styling, and Hugging Face's API for natural language processing. The chatbot offers mental health support with personalized responses, and its design is mobile-friendly.",
-      tags: [
-        {
-          name: "mern",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwindcss",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "huggingface-api",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: chatbot, // Replace with the actual image variable or path
-      source_code_link: "https://mental-health-chatbotfront.onrender.com/", // Replace with the actual GitHub link
-    }
+  name: "MERN Real-Time Chat App",
+  description:
+    "Built a full-stack real-time chat application with support for text messaging, image sharing, and user profile pictures. Users can upload, view, and change their profile pictures. The app is built using ReactJS, Tailwind CSS, Node.js, Express, MongoDB, and Socket.io for real-time updates.",
+  tags: [
+    { name: "reactjs", color: "blue-text-gradient" },
+    { name: "tailwindcss", color: "green-text-gradient" },
+    { name: "nodejs", color: "yellow-text-gradient" },
+    { name: "express", color: "pink-text-gradient" },
+    { name: "mongodb", color: "green-text-gradient" },
+    { name: "socket.io", color: "blue-text-gradient" },
+    { name: "cloudinary", color: "orange-text-gradient" }, // if used for images
+  ],
+  image: chatapp,
+  source_code_link: "https://chatapp-xkpe.onrender.com", // 🔁 Replace with your actual hosted link
+},
+{
+  name: "Texmage AI",
+  description:
+    "Texmage AI is an AI-powered image generation platform built with Next.js, Tailwind CSS, shadcn/ui, and MongoDB. Users can sign in using Google or GitHub via NextAuth, generate images from text prompts (up to 4 for free), and upgrade to Pro using Razorpay to unlock unlimited generations and can download generated images.",
+  tags: [
+    { name: "nextjs", color: "blue-text-gradient" },
+    { name: "tailwindcss", color: "green-text-gradient" },
+    { name: "shadcn/ui", color: "pink-text-gradient" },
+    { name: "mongodb", color: "green-text-gradient" },
+    { name: "nextauth", color: "blue-text-gradient" },
+    { name: "razorpay", color: "orange-text-gradient" },
+    { name: "ai-api", color: "purple-text-gradient" },
+  ],
+  image: texmage, // ✅ Replace this with your image variable like `import { texmage } from "../assets";`
+  source_code_link: "https://aitext2image.vercel.app/", // 🔁 Replace with your actual deployed link
+}
+
+
     
   ];
   
