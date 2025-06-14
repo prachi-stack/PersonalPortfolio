@@ -23,7 +23,7 @@ const Hero = () => {
   return (
     <section
       className="relative w-full h-screen   overflow-hidden bg-cover bg-center"
-      style={{ backgroundImage: "url('/src/assets/herobg.png')" }}
+      style={{ backgroundImage: "url('/herobg.png')" }}
     >
       <div
         className={`sm:my-[5rem] absolute inset-0 top-[120px] max-w-7xl mx-auto ${styles.paddingX} flex flex-col items-center`}
